@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaffaeleAaron
 - 👀 I’m interested in Science 🔭 ⚡️ 🔬 🧲
 - 🌱 I’m currently working as project manager and analog and digital electronics designer at Université de Sherbrooke 👾 🤖
-- 💞️ I’m looking to collaborate on FPGA front and backend programming
+- 🤖 Hit me up if you're looking for collaborations!
 - 📫 How to reach me: DM here or raffaele.aaron@gmail.com
